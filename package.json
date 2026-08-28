@@ -1,0 +1,8 @@
+{
+  "name": "soulfork-lead-webhook-router",
+  "version": "1.0.0",
+  "description": "Normaliza leads de site, Meta Lead Ads e WhatsApp e distribui para varios destinos com retry.",
+  "main": "src/servidor.js",
+  "scripts": { "test": "node --test", "start": "node src/servidor.js" },
+  "license": "MIT"
+}

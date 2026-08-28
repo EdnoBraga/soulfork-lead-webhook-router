@@ -1,0 +1,4 @@
+[
+  { "nome": "crm", "url": "https://SEU-CRM-OU-N8N-AQUI.exemplo.com/webhook/lead" },
+  { "nome": "planilha", "url": "https://SEU-WEBHOOK-DE-PLANILHA-AQUI.exemplo.com" }
+]
